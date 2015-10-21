@@ -1,4 +1,0 @@
-LIBRARY IEllipticalObjectElementsDLL.dll
-
-EXPORTS
-    CreateEllipticalObjectElements
